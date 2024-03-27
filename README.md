@@ -8,7 +8,7 @@ Installation:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/akash-b-s/python-ppygame
+git clone https://github.com/akash-b-s/Python-pygame/tree/main
 Navigate to the project directory:
 bash
 Copy code
